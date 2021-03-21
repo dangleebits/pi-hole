@@ -4,10 +4,11 @@
 # License: MIT License
 # ----------------------------------------------------------
 
-0.0.0.0 *.instagram.com
-0.0.0.0 *.facebook.com
-0.0.0.0 *.youtube.com
-0.0.0.0 *.tiktok.com
-0.0.0.0 *.whatsapp.com
-0.0.0.0 *.snapchat.com
+0.0.0.0 instagram.com
+0.0.0.0 facebook.com
+0.0.0.0 youtube.com
+0.0.0.0 tiktok.com
+0.0.0.0 whatsapp.com
+0.0.0.0 snapchat.com
+0.0.0.0 (\.|^)youtube$
 
