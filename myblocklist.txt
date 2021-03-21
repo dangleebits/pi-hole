@@ -1,14 +1,10 @@
-# ----------------------------------------------------------
-# PI-HOLE SAFE FAMILY BLOCK LIST
-# ----------------------------------------------------------
-# License: MIT License
-# ----------------------------------------------------------
-
+www.instagram.com
+www.facebook.com
+www.youtube.com
+m-instagram.com
+m-facebook.com
+m-youtube.com
 instagram.com
 facebook.com
 youtube.com
-tiktok.com
-whatsapp.com
-snapchat.com
-(\.|^)youtube$
 
